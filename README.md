@@ -2,7 +2,7 @@
 # BLV-ender-3-duet2
 This repository contains my Reprap firmware (currently 2.x) configuration for my BLV modded Ender 3 Pro.
 
-Please note that this configuration is not "final, there is still issues to resolve and settings to optimize.
+Please note that this configuration is not "final", there is still issues to resolve and settings to optimize.
 
 ## Why?
 I did not have many references for my configuration, so i decided to upload my own configuration if someone else would like to look at it.
@@ -15,6 +15,7 @@ I did not have many references for my configuration, so i decided to upload my o
 - Extruder stepper: NEMA 17, 0.9°, 18 N/cm, Stepper length: 26 mm.
 - Dual Z steppers (stock creality steppers)
 - E3d V6 (generic heater cartridge)
+- BLTouch
 
 # FAQ
 Q: How did you connect your duet 2 WiFi to a hidden WiFi?
